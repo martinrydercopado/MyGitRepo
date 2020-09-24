@@ -450,6 +450,15 @@
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>No_Longer_Works_Here__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>No Longer Works Here</description>
+        <externalId>false</externalId>
+        <label>No Longer Works Here</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>OtherAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
